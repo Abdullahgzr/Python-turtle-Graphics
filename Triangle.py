@@ -1,0 +1,10 @@
+import turtle
+turtle.Screen()
+turtle.screensize(1280,720,"cyan")
+turtle.forward(140)
+turtle.left(135)
+turtle.forward(100)
+turtle.left(90)
+turtle.forward(100)
+turtle.left(135)
+turtle.mainloop()
